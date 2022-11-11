@@ -140,8 +140,11 @@ const Country: NextPage = () => {
             <div className="flex flex-wrap gap-4 text-light-mode-text dark:text-dark-mode-text">
               {country.borders?.length ? (
                 <>
-                  {country.borders.map((border) => (
-                    <div className="px-10 rounded-md text-light-mode-text dark:text-dark-mode-text shadow-md text-sm py-2 bg-light-mode-element dark:bg-dark-mode-element">
+                  {country.borders.map((border, borderIdx) => (
+                    <div
+                      key={borderIdx}
+                      className="px-10 rounded-md text-light-mode-text dark:text-dark-mode-text shadow-md text-sm py-2 bg-light-mode-element dark:bg-dark-mode-element"
+                    >
                       {border}
                     </div>
                   ))}
