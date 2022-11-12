@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://example.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/i-used-nextjs-reactjs-tailwind-css-grid-and-flexbox-for-this-DUuJfAAm4Y](https://www.frontendmentor.io/solutions/i-used-nextjs-reactjs-tailwind-css-grid-and-flexbox-for-this-DUuJfAAm4Y)
+- Live Site URL: [https://frontendmentor-countries.vercel.app/](https://frontendmentor-countries.vercel.app/)
 
 ## My process
 
